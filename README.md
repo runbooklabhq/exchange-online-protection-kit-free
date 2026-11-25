@@ -1,5 +1,9 @@
 # Exchange Online Protection Kit: Top 5 (free)
 
+[![Exchange Online Protection Kit: Top 5 (free)](assets/cover.png)](https://runbooklabhq.com/kits/exchange-online-protection/)
+
+**[Every control on the kit page](https://runbooklabhq.com/kits/exchange-online-protection/)** · [Microsoft 365 deadline calendar](https://runbooklabhq.com/guides/deadlines/) · [Runbook Lab](https://runbooklabhq.com/)
+
 Most Microsoft 365 tenants need the same five email protection controls first: the Standard preset security policy for everyone (Strict for priority accounts), automatic forwarding to outside addresses blocked, SPF and DKIM for every domain that sends mail, DMARC on its way to p=reject, and the anti-malware attachment filter with zero-hour auto purge. This kit checks those five and turns them into a project.
 
 | File | What it is |
